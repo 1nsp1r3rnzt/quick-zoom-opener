@@ -1,7 +1,7 @@
 {
     "required_api_version": "^2.0.0",
     "name": "Quick Zoom Opener",
-    "description": "Extension for creating and joining Google Meet meetings",
+    "description": "Extension for creating and joining Zoom meetings",
     "developer_name": "Ranjit Singh",
     "icon": "images/icon.png",
     "options": {
