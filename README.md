@@ -8,7 +8,9 @@ This is a Ulauncher extension designed for efficiently opening saved Zoom meetin
 
 ## Installation
 1. Make sure you have [Ulauncher](https://ulauncher.io/) installed.
-2. Download and install the "Quick Zoom Opener" extension.
+2. Open Ulauncher setting -> extensions -> Add new extension
+3. Paste the url, `https://github.com/1nsp1r3rnzt/quick-zoom-opener`
+   
 
 ## Usage
 1. Open Ulauncher.
@@ -23,7 +25,7 @@ This is a Ulauncher extension designed for efficiently opening saved Zoom meetin
 The extension expects the Zoom meeting details to be provided in the following format:
 
 ```
-Meeting Title:meeting_id:meeting_password;
+Meeting Title:meeting_id:optional_meeting_password;
 ```
 
 For example
@@ -31,7 +33,7 @@ For example
 A meeting with boss:8172124790:ZE1dasasasPTWptcmlzQXa2wedasdds;
 ```
 
-Multiple Meetings are separated by colon
+Multiple Meetings are separated by semicolon
 Example
 ```
 Meeting Title:meeting_id:meeting_password;Meeting Title:meeting_id:meeting_password;
